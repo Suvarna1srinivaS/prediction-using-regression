@@ -1,2 +1,2 @@
 # prediction-using-regression
-I have used pyhton as a programming language
+I have used python as a programming language
